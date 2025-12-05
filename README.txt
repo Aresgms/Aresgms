@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Aresgms
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...With Gmail
+👾 GAN 👾
+-  Hi, I’m GANMULL
+-  I’m interested in Cheats & Coding my Own Things
+-  I’m currently learning C#
+👾 MUL 👾
 
-<!---
-Aresgms/Aresgms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
